@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dzTimer</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="hours">Hours</string>
+    <string name="minuts">Minuts</string>
+</resources>
